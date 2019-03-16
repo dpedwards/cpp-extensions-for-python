@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SimplePyBenchmark", "SimplePyBenchmark\SimplePyBenchmark.pyproj", "{A7F9C6F5-7BF3-4927-94C9-D8C699016AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F9C6F5-7BF3-4927-94C9-D8C699016AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F9C6F5-7BF3-4927-94C9-D8C699016AA1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A7F9C6F5-7BF3-4927-94C9-D8C699016AA1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A7F9C6F5-7BF3-4927-94C9-D8C699016AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F9C6F5-7BF3-4927-94C9-D8C699016AA1}.Release|x64.ActiveCfg = Release|Any CPU
+		{A7F9C6F5-7BF3-4927-94C9-D8C699016AA1}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {634BA09E-9F4C-48BB-AD8C-B013401C2D14}
+	EndGlobalSection
+EndGlobal
