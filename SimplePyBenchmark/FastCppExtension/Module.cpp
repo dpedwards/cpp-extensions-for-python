@@ -1,5 +1,5 @@
 #include <Python.h> // C:\Python37\include;%(AdditionalIncludeDirectories)
-
+// Set Additional #using Directories to 'C:\Python37\libs'
 #include <Windows.h>
 #include <cmath>
 
